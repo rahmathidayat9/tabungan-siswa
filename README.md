@@ -1,3 +1,3 @@
 ## Tabungan Siswa
 
-masih dalam pengembangan..
+Version 1.0
