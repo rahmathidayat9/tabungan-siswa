@@ -5,8 +5,6 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request as DefaultRequest;
 use App\Http\Requests\RekeningRequest as Request;
-
-
 use App\Models\Rekening;
 use App\Models\Nasabah;
 use DB;
