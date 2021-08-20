@@ -6,7 +6,6 @@ use App\Http\Controllers\Controller;
 use App\Http\Requests\UserRequest as Request;
 use Illuminate\Http\Request as DefaultRequest;
 use App\Events\UserDeleteEvent;
-
 use App\Models\User;
 
 class UserController extends Controller
