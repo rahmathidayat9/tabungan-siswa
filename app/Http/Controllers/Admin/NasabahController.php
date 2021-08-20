@@ -5,7 +5,6 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Events\NasabahDeleteEvent;
-
 use App\Models\Nasabah;
 use App\Models\Rekening;
 use App\Models\User;
