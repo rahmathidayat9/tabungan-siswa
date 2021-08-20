@@ -5,7 +5,6 @@ namespace App\Http\Controllers\Admin;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Events\UserWasDeleted;
-
 use App\Models\Pegawai;
 use App\Models\User;
 use Str;
